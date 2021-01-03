@@ -38,3 +38,9 @@ h2 {
 .phone-image {
     height: 30rem;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 30px;
+}
